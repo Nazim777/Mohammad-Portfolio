@@ -148,7 +148,7 @@ const Contact = () => {
                   <img src={github} alt="GitHub" />
                 </a>
                 <a
-                  href="www.linkedin.com/in/mohammad-nazim-hossain-a20a9a22b"
+                  href="https://www.linkedin.com/in/mohammad-nazim-hossain-a20a9a22b/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
