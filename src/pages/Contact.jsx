@@ -35,10 +35,9 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        "service_uovbbmq",
+        "template_6r7bjk5",
         formRef.current,
-        // import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
         "uzjGb2XRbX733mV6S"
       )
       .then(
