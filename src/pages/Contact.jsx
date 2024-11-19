@@ -12,7 +12,7 @@ import github from "../../public/github.svg";
 import twitter from "../../public/twitter.svg";
 import linkedin from "../../public/linkedin.svg";
 import instagram from "../../public/instagram.svg";
-import "./Contact.css";
+// import "./Contact.css";
 
 
 const Contact = () => {
