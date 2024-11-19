@@ -11,7 +11,7 @@ import emailIcon from "../../public/email.svg";
 import github from "../../public/github.svg";
 import twitter from "../../public/twitter.svg";
 import linkedin from "../../public/linkedin.svg";
-import "./Contact.css";
+import "./contact.css";
 
 
 const Contact = () => {
