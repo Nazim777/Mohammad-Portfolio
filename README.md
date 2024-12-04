@@ -84,8 +84,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:emredkyc/3d_portfolio.git
-cd 3d_portfolio
+git clone https://github.com/Nazim777/Mohammad-Portfolio.git
+cd Mohammad-Portfolio
 ```
 
 **Installation**
