@@ -162,21 +162,28 @@ export const projects = [
     theme: "btn-back-pink",
     name: "Joblookup",
     description: "A dynamic job search platform designed to connect job seekers with tailored employment opportunities. It offers intuitive filters, real-time updates, and resources for career growth, streamlining the hiring process for both candidates and employers.",
-    link: "https://job-lookup.netlify.app/jobs",
+    link: "https://job-lookup.netlify.app",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
     name: "Next Shop",
     description: "An innovative e-commerce platform that delivers a seamless shopping experience, featuring user-friendly navigation, secure payment options, and personalized product recommendations to meet diverse customer needs",
-    link: "https://next-shop.netlify.app/",
+    link: "https://next-shop.netlify.app",
+  },
+  {
+    iconUrl: summiz,
+    theme: "btn-back-yellow",
+    name: "Exam Portal",
+    description: "An efficient and secure exam portal designed to simplify online assessments, offering features such as question banks, timed tests, automated grading, and detailed performance analytics to enhance the learning and evaluation experience for students and educators",
+    link: "https://exam-portal.netlify.app",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
     name: "Instaclone",
     description: "A social media platform designed for sharing moments and expressing creativity through photos, fostering meaningful connections and community interaction with advanced discovery and engagement tools.",
-    link: "https://instacopy.netlify.app/",
+    link: "https://instacopy.netlify.app",
   },
   
 ];
