@@ -160,9 +160,9 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-pink",
-    name: "Joblookup",
+    name: "TalentTrail",
     description: "A dynamic job search platform designed to connect job seekers with tailored employment opportunities. It offers intuitive filters, real-time updates, and resources for career growth, streamlining the hiring process for both candidates and employers.",
-    link: "https://job-lookup.netlify.app",
+    link: "https://talent-trail.netlify.app",
   },
   {
     iconUrl: estate,
