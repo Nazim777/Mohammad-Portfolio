@@ -160,6 +160,32 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-pink",
+    name: "Ascendly-AI",
+    description: "An AI-powered platform for generating, managing, and previewing social media content with user authentication, content history, and a points-based system.",
+    link: "https://ascendly-ai.vercel.app",
+
+  },
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-pink",
+    name: "SwiftMart",
+    description: "A scalable e-commerce app with admin management, user shopping, and secure Stripe payments.",
+    link: "https://swift-mart-chi.vercel.app",
+
+  },
+
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-pink",
+    name: "CodeGuard",
+    description: "An intelligent platform providing real-time code feedback, bug detection, and performance analysis",
+    link: "https://code-guard-xi.vercel.app",
+
+  },
+
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-pink",
     name: "TalentTrail",
     description: "A dynamic job search platform designed to connect job seekers with tailored employment opportunities. It offers intuitive filters, real-time updates, and resources for career growth, streamlining the hiring process for both candidates and employers.",
     link: "https://talent-trail.netlify.app",
